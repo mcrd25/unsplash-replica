@@ -9,6 +9,23 @@ header ul {
     list-style-type: none;
 }
 
+#hero h1, #hero p {
+    line-height: 0;
+}
+
+#hero h1 {
+    margin-bottom: 2rem !important;
+}
+
+#hero p {
+    line-height: 2;
+    margin-bottom: 1rem !important;
+}
+
+#hero h2 {
+    font-size: 1rem;
+}
+
 #trending a {
     text-decoration: none;
     color: inherit;
@@ -45,5 +62,13 @@ header ul {
     #hero {
         padding-left: 15%;
         padding-right: 15%;
+    }
+
+    #hero h2 {
+        font-size: 1.1rem;
+    }
+
+    header {
+        height: 600px;
     }
 }
