@@ -1,0 +1,27 @@
+header {
+    background-color: black;
+    height: 390px;
+    color: white;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+#trending a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#header-search {
+    
+    min-width: 100px;
+    
+    background-color: white;
+}
+
+#header-search-wrap input {
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+}
