@@ -1,3 +1,15 @@
+nav {
+    height: 120px;
+}
+
+#top-nav {
+    height: 51%;
+}
+
+#bot-nav {
+    height: 49%;
+}
+
 header {
     background: url('https://images.unsplash.com/photo-1550936273-24fe2f09fcca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&fit=crop&w=1000&h=1000&q=80&ch=dpr') no-repeat;
     background-size: 100%;
