@@ -406,6 +406,22 @@ html {
     justify-content: center;
 }
 
+.jc-space-between {
+    justify-content: space-between;
+}
+
+.jc-space-around {
+    justify-content: space-around;
+}
+
+.ac-space-between {
+    align-content: space-between;
+}
+
+.ac-space-around {
+    align-content: space-around;
+}
+
 .ai-center {
     align-items: center;
 }
@@ -1064,6 +1080,14 @@ html {
     color: #D50000;
 }
 
+.white {
+    color: #fff;
+}
+
+.black {
+    color: #000;
+}
+
 .blue {
     color: #0D47A1;
 }
@@ -1103,6 +1127,14 @@ html {
 
 .grey {
     color: #757575;
+}
+
+.black-bg {
+    background-color: #000;
+}
+
+.white-bg {
+    background-color: #fff;
 }
 
 .red-bg,
